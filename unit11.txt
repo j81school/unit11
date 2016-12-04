@@ -1,0 +1,1 @@
+Node.js allows use of javascript outside of the browser. Node.js is is asynchronous which means for example that it doesn't require the full reading or writing of a file before moving on to the next one. Javascript can be used to write server applications. It is able to handle thousands of concurrent connections in a single proccess.
